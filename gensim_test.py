@@ -100,7 +100,7 @@ if __name__ == '__main__':
 	'num_topics': 5,
 	'update_every': 1,
 	'chunksize': 1000,
-	'passes': 500 
+	'passes': 50 
 	}
 	main(query,LDA_PARAMS)	
 
