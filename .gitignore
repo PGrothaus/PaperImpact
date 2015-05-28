@@ -1,3 +1,4 @@
+find_xe2.py
 
 test_corpus_shuf.txt
 
@@ -8,7 +9,7 @@ tmp/hep-ph_th.lda.state
 tmp/hep-ph_th.lda
 
 *.pkl
-
+*.pyc
 *.index
 
 *.mm
